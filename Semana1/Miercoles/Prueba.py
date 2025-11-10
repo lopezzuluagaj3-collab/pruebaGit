@@ -124,7 +124,7 @@ elif numero >= 30:
     else:
         print(f" El total a pagar por {numero} productos es de: ", final)
 elif numero >= 10:
-    descuento = total * 0.5
+    descuento = total * 0.05
     final = total - descuento
     if final >= 50000:
         print(f" El total a pagar por {numero} productos es de: ", final + 5000)
