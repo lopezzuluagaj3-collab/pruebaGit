@@ -17,8 +17,8 @@ def AgresarProducto():
 def MostrarInventario():
       if not inventario:
             print("No se a encontrado ningun dato: ")
-        else 
-    
+      else 
+
 
 
 
