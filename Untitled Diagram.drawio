@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="29.0.2">
+  <diagram name="Page-1" id="yJPsFKXKEHHo_42vaLEZ">
+    <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-1" target="OCEovoKf8NW8kQlWc9AA-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-7" value="Ingresar nombre" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-8" target="OCEovoKf8NW8kQlWc9AA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-8" target="OCEovoKf8NW8kQlWc9AA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-12" value="&lt;div&gt;no&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCEovoKf8NW8kQlWc9AA-11">
+          <mxGeometry x="-0.1667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-14" value="&lt;div&gt;no&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCEovoKf8NW8kQlWc9AA-11">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-8" target="OCEovoKf8NW8kQlWc9AA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-29" value="si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCEovoKf8NW8kQlWc9AA-24">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-8" value="¿Nombre .salpha()?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-10" target="OCEovoKf8NW8kQlWc9AA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-10" value="Error: solo letras" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-23" target="OCEovoKf8NW8kQlWc9AA-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-23" value="Ingresa cantidad" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-30" target="OCEovoKf8NW8kQlWc9AA-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-34" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCEovoKf8NW8kQlWc9AA-33">
+          <mxGeometry x="-0.06" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-30" target="OCEovoKf8NW8kQlWc9AA-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-38" value="si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCEovoKf8NW8kQlWc9AA-37">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-30" value="¿cantidad .isdigit()?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="500" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-32" target="OCEovoKf8NW8kQlWc9AA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-32" value="Error. numero entero" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-36" target="OCEovoKf8NW8kQlWc9AA-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-36" value="Ingrese precio" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="365" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-39" target="OCEovoKf8NW8kQlWc9AA-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-50" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCEovoKf8NW8kQlWc9AA-42">
+          <mxGeometry x="-0.1091" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-39" target="OCEovoKf8NW8kQlWc9AA-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-52" value="si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OCEovoKf8NW8kQlWc9AA-45">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-39" value="&lt;div&gt;¿precio&lt;/div&gt;&lt;div&gt;replace(&#39;.&#39;,&#39;&#39;,1).isdigit()?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="770" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-41" target="OCEovoKf8NW8kQlWc9AA-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-41" value="&lt;div&gt;Error: número&lt;/div&gt;&lt;div&gt;válido&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-44" target="OCEovoKf8NW8kQlWc9AA-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-44" value="Conversión de datos:precio = float(precio)cantidad = int(cantidad)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="970" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-46" target="OCEovoKf8NW8kQlWc9AA-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-46" value="Calcular:costo_total = precio * cantidad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1140" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCEovoKf8NW8kQlWc9AA-48" target="OCEovoKf8NW8kQlWc9AA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-48" value="mprimir resumen:- Producto: nombre- Cantidad: cantidad- Precio: precio" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1280" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OCEovoKf8NW8kQlWc9AA-53" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1390" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
